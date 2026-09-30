@@ -1,0 +1,14 @@
+characters = {
+	SOV_gleb_yasher = {
+		portraits = {
+			civilian = {
+				large = "gfx/leaders/SOV/SOV_gleb_yasher.png"
+			}
+		}
+		country_leader = {
+			ideology = neo_stalinism
+			expire = "1.1.1.1"
+		}
+
+	}	
+}

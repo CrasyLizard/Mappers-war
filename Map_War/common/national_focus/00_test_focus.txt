@@ -1,0 +1,18 @@
+focus_tree = {
+	id = TEST_generic_tree
+	country = {
+        	factor = 1
+	}
+	focus = {
+		id = TEST_focus
+
+        	x = 0
+        	y = 0
+
+        	cost = 1
+
+        	completion_reward = {
+            		add_political_power = 5
+        	}
+	}
+}

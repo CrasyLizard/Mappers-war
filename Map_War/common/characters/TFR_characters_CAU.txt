@@ -1,0 +1,14 @@
+characters = {
+	CAU_aha = {
+		portraits = {
+			civilian = {
+				large = "gfx/leaders/CAU/CAU_aha.png"
+			}
+		}
+		country_leader = {
+			ideology = natzcan
+			expire = "1.1.1.1"
+		}
+
+	}	
+}

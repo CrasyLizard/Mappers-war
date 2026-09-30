@@ -1,0 +1,81 @@
+#reload countrycolors
+
+SOV = {
+	color = rgb { 128 23 23 }
+	color_ui = rgb { 128 23 23 }
+}
+
+TCP = {
+	color = rgb { 23 100 28 }
+	color_ui = rgb { 23 100 28 }
+}
+
+PSA = {
+	color = rgb { 101 42 32 }
+	color_ui = rgb { 101 42 32 }
+}
+
+SHL = {
+	color = rgb { 134 105 16 }
+	color_ui = rgb { 134 105 16 }
+}
+
+UKR = {
+	color = rgb { 42 25 200 }
+	color_ui = rgb { 42 25 200 }
+}
+
+NSP = {
+     color = rgb { 20 7 105 }
+     color_ui = rgb { 20 7 105 }
+}
+
+CAU = {
+    color = rgb { 52 8 28 }
+    color_ui = rgb { 52 8 28 }
+}
+
+FER = {
+    color = rgb { 26 87 62 }
+    color_ui = rgb { 26 87 62 }
+}
+
+ECS = {
+    color = rgb { 30 67 28 }
+    color_ui = rgb { 30 67 28 }
+}
+
+KPR = {
+    color = rgb { 125 77 25 }
+    color_ui = rgb { 125 77 25 }
+}
+
+UPR = {
+    color = rgb { 31 117 88 }
+    color_ui = rgb { 31 117 88 }
+}
+
+POM = {
+    color = rgb { 40 58 116 }
+    color_ui = rgb { 40 58 116 }
+}
+
+NCK = {
+    color = rgb { 68 6 37 }
+    color_ui = rgb { 68 6 37 }
+}
+
+KAZ = {
+    color = rgb { 128 29 29 }
+    color_ui = rgb { 128 29 29 }
+}
+
+CZS = {
+    color = rgb { 13 110 38 }
+    color_ui = rgb { 13 110 38 }
+}
+
+BLR = {
+    color = rgb { 76 68 68 }
+    color_ui = rgb { 76 68 68 }
+}
