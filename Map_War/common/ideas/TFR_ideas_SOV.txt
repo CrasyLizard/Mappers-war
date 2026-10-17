@@ -138,6 +138,74 @@ ideas = {
 				land_doctrine_cost_factor = 1
 				naval_doctrine_cost_factor = 1
 				air_doctrine_cost_factor = 1
+				military_development_monthly = -0.02
+			}
+		}
+		SOV_adm_crash_1 = {
+			traits = {
+				ZZZ_blank_idea_trait
+			}
+
+			allowed = {
+				always = no
+			}
+
+			allowed_civil_war = {
+				always = yes
+			}
+
+			removal_cost = -1
+					
+			modifier = {
+				production_speed_buildings_factor = -0.3
+				production_factory_max_efficiency = -0.1
+				production_factory_efficiency_gain_factor = -0.1
+				industrial_capacity_dockyard_factor = -0.1
+				local_resources_factor = -0.3
+				consumer_goods_factor = 0.3
+				stability_factor = -0.4
+				political_power_gain = -1
+				economy_cost_factor = 1.5
+				trade_laws_cost_factor = 1.5
+				political_advisor_cost_factor = 1.5
+				mobilization_laws_cost_factor = 1.5
+				academic_development_monthly = -0.01
+				poverty_development_monthly = -0.02
+				industrial_development_monthly = -0.01
+				society_development_monthly = -0.01
+			}
+		}
+		SOV_adm_crash_2 = {
+			traits = {
+				ZZZ_blank_idea_trait
+			}
+
+			allowed = {
+				always = no
+			}
+
+			allowed_civil_war = {
+				always = yes
+			}
+
+			removal_cost = -1
+					
+			modifier = {
+				production_speed_buildings_factor = -0.3
+				production_factory_max_efficiency = -0.1
+				production_factory_efficiency_gain_factor = -0.1
+				industrial_capacity_dockyard_factor = -0.1
+				local_resources_factor = -0.3
+				consumer_goods_factor = 0.3
+				stability_factor = -0.35
+				political_power_gain = -0.5
+				economy_cost_factor = 1.5
+				trade_laws_cost_factor = 1.5
+				mobilization_laws_cost_factor = 1.5
+				academic_development_monthly = -0.01
+				poverty_development_monthly = -0.02
+				industrial_development_monthly = -0.01
+				society_development_monthly = -0.01
 			}
 		}
 

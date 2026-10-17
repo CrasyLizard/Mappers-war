@@ -1,0 +1,44 @@
+focus_tree = {
+	id = SOV_tree
+	country = {
+        factor = 0
+		modifier = {
+            	add = 10
+            	tag = SOV
+        	}
+	}
+	
+	default = no
+	
+	focus = {
+		id = SOV_darkest_hour
+
+        	x = 0
+        	y = 0
+
+        	cost = 1
+
+        	completion_reward = {
+            		add_political_power = 100
+					country_event = {
+						id = sov.1
+					}
+        	}
+	}
+	
+	focus = {
+        id = SOV_purge
+        prerequisite = {
+            focus = SOV_darkest_hour
+        }
+
+        x = 0
+        y = 1
+        cost = 1
+
+        completion_reward = {
+            remove_ideas = SOV_adm_crash_1
+			add_ideas = SOV_adm_crash_2
+        }
+    }
+}

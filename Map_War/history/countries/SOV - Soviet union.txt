@@ -317,6 +317,7 @@
 		#Ideas
 		SOV_logist_crah
 		SOV_army_chaos
+		SOV_adm_crash_1
 	}
 
 	set_politics = {	
